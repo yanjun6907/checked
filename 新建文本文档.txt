@@ -1,5 +1,3 @@
 基本类型分为：undefined，boolean，number，string，null.基本类型的访问是按值访问的，你可以操作保存在变量中的实际的值。
 
-javascript中除了基本类型之外就是引用类型了，也可以说是就是对象了。Object、Array、RegExp、Date、Function，对象是属性和方法的集合。
-
-也就是说引用类型可以拥有属性和方法，属性又可以包含基本类型和引用类型。
+javascript中除了基本类型之外就是引用类型了，
